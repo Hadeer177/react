@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.aeb00cb4.js",
+    "static/media/Navbar.jsX": "/static/media/Navbar.e4796a5615a5cf2b08d9.jsX",
+    "index.html": "/index.html",
+    "main.aeb00cb4.js.map": "/static/js/main.aeb00cb4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aeb00cb4.js"
+  ]
+}
